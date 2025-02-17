@@ -1,0 +1,9 @@
+{
+	"name": "Prasad17-devadf-01",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2227e3dc-d97a-4b5a-8b51-c7c892300761",
+		"tenantId": "b911e3ec-4ab7-461c-b643-84465314c7a4"
+	}
+}
